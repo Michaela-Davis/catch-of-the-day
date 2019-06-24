@@ -22,3 +22,5 @@ render(<StorePicker/>, document.querySelector('#main'));
 ^This is rendering the component StorePicker using a self-closing tag
 
 React INSPECTOR/DEV TOOLS will show REACT custom components in PURPLE and other DOM elements in grey
+
+React will need to be imported into each component individually
